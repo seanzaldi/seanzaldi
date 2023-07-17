@@ -14,7 +14,7 @@
 ### En este repositorio encontrarán muchas de las prácticas que hemos realizado en clase.
 
 
-### Algo sobre mí:
+#### Algo sobre mí:
 
 * Me gradué en Ingeniería en Informática y también en Telecomunicaciones.
 * A los 20 años tuve la posibilidad de tener contacto con OS390, RACF y algo de JCL (muy verde para mi gusto).
