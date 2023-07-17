@@ -3,7 +3,7 @@
 =============
 
 
-> Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi profesor
+    > Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi profesor
 
 
 **@bajolacurva** [Twitter](https://twitter.com/bajolacurva)
