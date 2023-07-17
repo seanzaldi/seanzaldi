@@ -3,10 +3,12 @@
 =============
 
 
-## Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi Profesor
+## Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi Profesor:
 
 
-**@bajolacurva** [Twitter](https://twitter.com/bajolacurva)
+### **@bajolacurva** [Twitter](https://twitter.com/bajolacurva)
+
+
 
 
 ### En este repositorio encontrarán muchas de las prácticas que hemos realizado en clase.
