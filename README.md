@@ -3,8 +3,8 @@
 =============
 
 
->Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi profesor
------------------------------------------------------------------------------
+> Mi nombre es Sebastian. Estoy aprendiendo *Python* con *Albert*, mi profesor
+
 
 **@bajolacurva** [Twitter](https://twitter.com/bajolacurva)
 
@@ -24,7 +24,7 @@
 * A los 30 viré por completo al mundo de las Telecomunicaciones
     * WAN y LAN: Fram Relay, VSAT IP, MPLS, Routing, switching, etc. 
     * Monitoreo, control de performance, control de tráfico, calidad de servicio, SLAs, etc.
-    * Mucho IPv4: CISCO, CCNA, CCNP, Juniper, etc...
+    * Mucho IPv4, TCP, etc.
 
 
 
