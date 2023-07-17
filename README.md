@@ -24,7 +24,7 @@
     * Firewalls 
     * También en la implementacion de uno de los primeros proyectos de Firma Digital de la Argentina
 * A los 30 viré por completo al mundo de las Telecomunicaciones
-    * WAN y LAN: Fram Relay, VSAT IP, MPLS, Routing, switching, etc. 
+    * WAN y LAN: Fram Relay, VSAT IP, MPLS, Routing, switching, CCNA, CCNP, etc. 
     * Monitoreo, control de performance, control de tráfico, calidad de servicio, SLAs, etc.
 * Mucho IPv4, TCP, etc.
 
